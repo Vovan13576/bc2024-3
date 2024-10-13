@@ -11,5 +11,8 @@
   },
   "author": "Vovan13576",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
 }
